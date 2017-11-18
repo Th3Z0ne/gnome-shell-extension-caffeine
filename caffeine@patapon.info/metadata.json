@@ -1,9 +1,9 @@
 {
-"shell-version": ["3.10", "3.11", "3.12", "3.13", "3.14", "3.16", "3.18", "3.20", "3.22", "3.24"],
-"uuid": "caffeine@patapon.info",
-"name": "Caffeine",
-"settings-schema": "org.gnome.shell.extensions.caffeine",
-"gettext-domain": "gnome-shell-extension-caffeine",
+"shell-version": ["3.10", "3.11", "3.12", "3.13", "3.14", "3.16", "3.18", "3.20", "3.22", "3.24", "2.26"],
+"uuid": "caffeine-NG@th3z0ne",
+"name": "Caffeine-NG",
+"settings-schema": "org.gnome.shell.extensions.caffeine-ng",
+"gettext-domain": "gnome-shell-extension-caffeine-ng",
 "description": "Disable the screensaver and auto suspend",
-"url": "https://github.com/eonpatapon/gnome-shell-extension-caffeine"
+"url": "https://github.com/Th3Z0ne/gnome-shell-extension-caffeine-ng"
 }
